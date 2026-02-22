@@ -2,6 +2,12 @@
 A small Rust written kernel
 
 
+https://github.com/SoulsSapling/ferrisOS/blob/cbafd9c04515bb2afe0414c10553bd0bf0a26967/image0.png
+
+
+
+
+
 For the less obvious terminal commands:
 
 
