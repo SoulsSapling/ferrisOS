@@ -1,0 +1,5 @@
+1. Install QEMU and add it to PATH
+
+2. Build the kernel using this command: cargo bootimage
+
+3. Use this command: qemu-system-x86_64 -drive format=raw,file=target/x86-64_ferris_os/debug/bootimage-ferrisOS.bin -audiodev dsound,id=snd0 -machine pcspk-audiodev=snd0
